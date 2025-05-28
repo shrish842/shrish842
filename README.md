@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrish842" alt="shrish842" /></a> </p>
 
-- 🌱 I’m currently learning **sklearn**
+- 🌱 I’m currently learning **llms**
 
 - 💬 Ask me about **numpy,pandas and matplotlib**
 
